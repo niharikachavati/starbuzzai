@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/starbuzzai/static/css/main.253ed4fb.css",
+    "main.js": "/starbuzzai/static/js/main.1f24fce5.js",
+    "static/media/Rectangle 190.png": "/starbuzzai/static/media/Rectangle 190.35133545ae0d83444a7f.png",
+    "static/media/Rectangle 192.png": "/starbuzzai/static/media/Rectangle 192.a24beef5aa19cf341c86.png",
+    "static/media/Rectangle 191.png": "/starbuzzai/static/media/Rectangle 191.7c23e27df558bf88a1a9.png",
+    "index.html": "/starbuzzai/index.html",
+    "main.253ed4fb.css.map": "/starbuzzai/static/css/main.253ed4fb.css.map",
+    "main.1f24fce5.js.map": "/starbuzzai/static/js/main.1f24fce5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.253ed4fb.css",
+    "static/js/main.1f24fce5.js"
+  ]
+}
