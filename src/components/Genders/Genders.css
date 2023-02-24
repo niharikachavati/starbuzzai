@@ -1,0 +1,20 @@
+.gender{
+    
+    height: 350px;
+    /* left: 420px;
+    top: 100px; */
+    background: #FFFFFF;
+    border-radius: 10px;
+    margin-top: 20px;
+   
+}
+.gender h6{
+    padding-left: 20px;
+    padding-top: 10px;
+    font-family: 'Plus Jakarta Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 23px;
+color: #171615;
+}

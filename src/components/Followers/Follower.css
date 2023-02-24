@@ -1,0 +1,17 @@
+.follow{
+    /* width: 50%; */
+    height: 350px;
+    background: #FFFFFF;
+    border-radius: 10px;
+   
+}
+.follow h6 {
+    padding-left: 20px;
+    padding-top: 10px;
+    font-family: 'Plus Jakarta Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 23px;
+color: #171615;
+}

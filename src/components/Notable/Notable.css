@@ -1,0 +1,45 @@
+.note{
+    /* width: 25%; */
+    height: 661px;
+    background: #FFFFFF;
+    border-radius: 10px;
+    padding: 10px;
+    /* margin: 100px 1520px 1590px 50px; */
+      }
+      /* .holder {
+        width: 50%;
+        margin: 50px auto;
+        padding: 20px;
+      } */
+      ul {
+        list-style-type: none;
+      }
+        li {
+          overflow: hidden;
+          margin: 0 0 20px;
+          border-bottom: 1px solid #ccc;
+          padding: 0 0 20px;
+          /* &:last-child {
+            margin: 0;
+          }
+         */
+      }
+      img {
+        float: left;
+        display: block;
+        width: 40px;
+        height: 40px;
+        border-radius: 50%;
+        margin: 0 10px 0 0;
+      }
+      span {
+        display: block;
+        width: 100%;
+        font-weight: bolder;
+        font-size: 14px;
+        /* &.phone {
+          font-weight: normal;
+          font-style: italic;
+          color: #999;
+        } */
+      }

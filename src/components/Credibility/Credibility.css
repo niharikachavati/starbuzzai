@@ -1,0 +1,117 @@
+.cred{
+    height: 303px;
+    margin-top: 20px;
+    background: #FFFFFF;
+    border-radius: 10px; 
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+   
+}
+.content{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.circontent{
+    width: 84px;
+    height: 84px;
+    background: #FF5900;
+    border-radius: 10px;
+    background: url('/Users/niha/Desktop/starbuzz/starbuzzai/src/images/Ellipse 3.png');
+
+}
+.cont{
+    width: 170px;
+height: 48px;
+}
+.cont p{
+    font-family: 'Plus Jakarta Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 16px;
+color: #A0A0A0;
+}
+.audi{
+    padding-left: 20px;
+}
+.boxes{
+   margin-left: 30px;
+    width: 80%;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    height: 120px;
+    margin-top: 5px;
+    border-top: 2px solid #E7E7E7;
+}
+.boxes1{
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    border-right:  2px solid #E7E7E7;
+    padding-right: 20px;
+}
+.boxes2{
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+}
+.boxes1 h4{
+    font-family: 'Plus Jakarta Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 22px;
+line-height: 28px;
+color: #171615;
+padding-top: 10px;
+
+}
+.boxes2 h4{
+    font-family: 'Plus Jakarta Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 22px;
+line-height: 28px;
+color: #171615;
+padding-top: 10px;
+
+}
+.boxes1 p{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    font-family: 'Plus Jakarta Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 20px;
+color: #738294;
+opacity: 0.5;
+}
+.boxes2 p{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    font-family: 'Plus Jakarta Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 20px;
+color: #738294;
+opacity: 0.5;
+}
+.circontent p{
+    
+        position: relative;
+        top: 50%;
+        left: 90%;
+
+        transform: translate(-50%, -50%);
+      
+}

@@ -1,0 +1,35 @@
+.post{
+    height: 263px;
+    background: #FFFFFF;
+    border-radius: 10px;
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content:space-evenly
+    
+
+}
+/* .word1 {
+  display: flex;
+  /* flex-direction: column; */
+  /* align-items: center;
+  justify-content: space-around;
+ * */
+word{
+    width: 170px;
+    height: 48px;
+}
+.word p {
+    font-family: 'Plus Jakarta Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 16px;
+/* or 114% */
+
+
+/* Gray-1 */
+
+color: #A0A0A0;
+}
